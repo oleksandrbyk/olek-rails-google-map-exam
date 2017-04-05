@@ -65,15 +65,3 @@ end
 
 ```
 $ rails generate controller StaticPages home
-```
-
-## Resources
-* http://railscasts.com/episodes/273-geocoder?autoplay=true
-* https://github.com/alexreisner/geocoder
-* https://anadea.info/blog/how-to-integrate-google-maps-into-ruby-on-rails-app
-
-## Authors
-[Stephen Lee](http://www.stephenslee.xyz) -the hacker that dreams big.
-
-## License
-This project is free to all. Use this. Build things that matter.
